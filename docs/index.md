@@ -1,10 +1,10 @@
 --- 
 title: "Ksiega Lukasza"
 author: "Lukasz Rabalski"
-date: "2021-03-13"
+date: "2021-01-17"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
+#bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 #github-repo: seankross/bookdown-start
@@ -14,9 +14,4 @@ description: "Everything you need (and nothing more) to start a bookdown book."
 
 # Preface {-}
 
-Inspiration:
-http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html
-
-```r
-#bookdown::render_book(".")
-```
+This is the very first part of the book.

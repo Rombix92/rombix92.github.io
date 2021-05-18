@@ -16,6 +16,3 @@ description: "Everything you need (and nothing more) to start a bookdown book."
 
 Inspiration:
 http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html
-```{r}
-bookdown::render_book(".")
-```
